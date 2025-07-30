@@ -7,6 +7,9 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)](https://openai.com/)
 [![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS-orange.svg)](https://aws.amazon.com/)
 
+
+ <img src="https://github.com/brilliant13/portfolio/blob/main/73%E1%84%8C%E1%85%A9_%E1%84%8E%E1%85%AC%E1%84%80%E1%85%A9%E1%84%83%E1%85%A1%E1%84%8B%E1%85%A9.jpg" width="750" alt="best_dao"/> <br>
+
 ## 📋 프로젝트 개요
 
 ForU(너를 위해) 는 기업의 영업팀과 마케팅팀을 위한 차세대 AI 기반 개인화 단체문자 발송 플랫폼입니다. 획일적인 단체문자 대신, AI가 각 수신자의 특성과 관계를 분석하여 개인별 맞춤형 메시지를 자동 생성함으로써 고객 참여도와 전환율을 획기적으로 향상시킵니다.
